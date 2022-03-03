@@ -13,6 +13,7 @@ public class Ecole {
     /**
      * @param args the command line arguments
      */
+    //
     public static void main(String[] args) {
         Etudiant e= new Etudiant(1,"Ahmed","Oueslati");
         Etudiant e1= new Etudiant(0,"Ahmed","Oueslati");
