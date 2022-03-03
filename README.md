@@ -1,2 +1,2 @@
-# G2-AINFO4
+## G2-AINFO4
 Validation Git
