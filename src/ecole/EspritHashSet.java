@@ -10,7 +10,7 @@ import java.util.Set;
 
 /**
  *
- * @author DELL
+ * @author TEST
  */
 public class EspritHashSet  implements GestionEnseignant{
 
