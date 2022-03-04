@@ -1,20 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ecole;
 
 import java.util.Set;
 import java.util.TreeSet;
 
-/**
- *
- * @author DELL
- */
+
 public class EspritTreeSet implements GestionEnseignant{
     
     Set<Enseignant> treeset;
+    
+    //modification
+    
+    public static void main(String[] args) {
+    	System.out.println("Ons");
+
+	}
 
     public EspritTreeSet() {
         this.treeset = new TreeSet();
