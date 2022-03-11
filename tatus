@@ -1,0 +1,40 @@
+[33mcommit 31e40f97a57ef82a7483caa9d2e1abc0148fe5e5[m[33m ([m[1;36mHEAD -> [m[1;32mb-islem[m[33m, [m[1;31mprojetgit/b-islem[m[33m)[m
+Merge: 60a0737 6a647d2
+Author: Islem Mannai <islemmannaiii@gmail.com>
+Date:   Fri Mar 4 15:23:27 2022 +0100
+
+    Merge branch 'b-islem' of https://github.com/Rama945/G2-AINFO4 into
+    b-islem
+    
+    # Conflicts:
+    #       src/ecole/EspritHashSet.java
+
+[33mcommit 6a647d2b27f87a6afdcace88ebde7eb6202cd1df[m[33m ([m[1;31morigin/b-islem[m[33m)[m
+Author: Islem Mannai <33582415+ikqdjzld@users.noreply.github.com>
+Date:   Thu Mar 3 22:49:21 2022 +0100
+
+    Update EspritHashSet.java
+
+[33mcommit 60a0737b03f7a2671beed8816c710ad739227cde[m
+Author: Islem Mannai <islemmannaiii@gmail.com>
+Date:   Thu Mar 3 22:48:26 2022 +0100
+
+    test
+
+[33mcommit 965d31e61f5d6c9ab522325ee8d2a31df1a3a0f1[m
+Author: Islem Mannai <33582415+ikqdjzld@users.noreply.github.com>
+Date:   Thu Mar 3 22:45:20 2022 +0100
+
+    Update Ecole.java
+
+[33mcommit 93db5b90ccef4fa45d37e9a70a2f650f1ce8bf81[m
+Author: Islem Mannai <islemmannaiii@gmail.com>
+Date:   Thu Mar 3 22:37:32 2022 +0100
+
+    ajout classe by islem
+
+[33mcommit 7aafb64ed20656733d2174eaf67dc8d234a2bc57[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Rahma Oueslati <rahma.oueslati@esprit.tn>
+Date:   Thu Mar 3 13:00:36 2022 +0100
+
+    Init projet
